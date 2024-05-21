@@ -1,5 +1,5 @@
 # Pricing Preview Form
-Designed a form using MS-Forms so recruiters and HR Business partners who are considering activating jobs in new locations can request to know pay ranges without going through the whole 2-weeks long process to get the job created and priced in our HR information system. Automated the notification to the Compensation point of contact to know of the new job that needed pricing. Automated the feedback email for the compensation point of contact to reply with the results of the pricing. The process came from 2 weeks to max 2 business days. Used Typescript, Power Automate, and VBA for Excel.
+I've designed a form using MS-Forms so recruiters and HR Business partners who are considering activating jobs in new locations can request to know pay ranges without going through the whole 2-weeks long process to get the job created and priced in our HR information system. Automated the notification to the Compensation point of contact to know of the new job that needed pricing. Automated the feedback email for the compensation point of contact to reply with the results of the pricing. The process came from 2 weeks to max 2 business days. Used Typescript, Power Automate, and VBA for Excel.
 
 
 # The form
