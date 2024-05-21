@@ -31,3 +31,6 @@ On the Excel add-in I created and shared with the team there is a button that al
 VBA writes an email with the information and sends it on behalf of the compensation point of contact. The email looks like this:
 ![image](https://github.com/jacksoncaquino/Pricing-preview-form/assets/61064363/a7a15c10-4247-4355-9b0d-1f29f9bca534)
 
+# What can I find in this repository?<br>
+• The Typescript that adds a new row to an Excel sheet based on a new form entry coming from Power Automate<br>
+• The VBA code that is on the add-in that sends feedback to the requestors.
