@@ -21,4 +21,5 @@ I have created a flow using Power Automate, which is a low code solution. The fl
 • Sends the email to the compensation professional who will price the job, along with instructions on how to send the feedback to the requestor<br>
 ![image](https://github.com/jacksoncaquino/Pricing-preview-form/assets/61064363/04521024-8deb-45cd-bca1-075afb2013f8)
 
-# 
+# How does the compensation team price the jobs?
+Currently it takes less than two minutes using the midpoint prediction tool. Refer to the project here to know more about it: [https://github.com/jacksoncaquino/Midpoint-Prediction-Tool/](https://github.com/jacksoncaquino/Midpoint-Prediction-Tool/)
