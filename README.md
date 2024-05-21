@@ -23,3 +23,11 @@ I have created a flow using Power Automate, which is a low code solution. The fl
 
 # How does the compensation team price the jobs?
 Currently it takes less than two minutes using the midpoint prediction tool. Refer to the project here to know more about it: [https://github.com/jacksoncaquino/Midpoint-Prediction-Tool/](https://github.com/jacksoncaquino/Midpoint-Prediction-Tool/)
+
+# When the job is priced, how to send the feedback to the requestor?
+On the Excel add-in I created and shared with the team there is a button that allows the compensation team to send the response directly to the requestors:
+![image](https://github.com/jacksoncaquino/Pricing-preview-form/assets/61064363/40c18f9f-71be-4976-8480-653ba6471c80)
+
+VBA writes an email with the information and sends it on behalf of the compensation point of contact. The email looks like this:
+![image](https://github.com/jacksoncaquino/Pricing-preview-form/assets/61064363/a7a15c10-4247-4355-9b0d-1f29f9bca534)
+
